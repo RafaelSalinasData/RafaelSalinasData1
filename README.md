@@ -1,78 +1,46 @@
-# RafaelSalina# 👋 ¡Hola! Soy **Rafael Salinas**
-## 📊 Analista & Científico de Datos | BI · Python · SQL · ML
-
-Soy un profesional del **Análisis y Ciencia de Datos** con experiencia en exploración de datos, visualización, modelos de ML, inteligencia de negocios y soporte a la toma de decisiones. Transformo datos complejos en insights claros y accionables utilizando herramientas como **Python, SQL, Excel avanzado y Power BI**.  
-📍 Monterrey, Nuevo León, México
+# 👋 Rafael Salinas  
+## 📊 Analista & Científico de Datos | Data Analyst & Data Scientist
 
 ---
 
-## 🚀 Sobre mí
-- 📈 Especialista en análisis de negocios y storytelling con datos  
-- 🤖 Manejo de técnicas de machine learning  
-- 📊 Dominio de dashboards: Power BI y Looker Studio  
-- 🧪 EDA, automatización y modelado estadístico  
-- 🧠 Pensamiento crítico, comunicación clara y resolución efectiva de problemas
+## 🇪🇸 Español
 
-> “Tengo habilidad para comunicar hallazgos y apoyar decisiones estratégicas.” :contentReference[oaicite:1]{index=1}
+Soy un profesional en Análisis y Ciencia de Datos con experiencia en EDA, BI, Machine Learning y automatización. Manejo Python, SQL, Power BI, Excel avanzado y herramientas de visualización para generar insights que apoyen decisiones estratégicas.
 
----
+### Habilidades
+Python · SQL Server · Pandas · NumPy · Plotly · Power BI · Looker Studio · Excel Avanzado
 
-## 🛠️ Tecnologías
-**Lenguajes:** Python · SQL Server  
-**Librerías:** Pandas · NumPy · Plotly  
-**BI & Visualización:** Power BI · Looker Studio  
-**Herramientas:** Excel Avanzado · Macros · Tablas dinámicas  
-**Habilidades Blandas:** Liderazgo · Empatía · Adaptabilidad · Trabajo en equipo :contentReference[oaicite:2]{index=2}
+### Experiencia
+- Secretaría de Participación Ciudadana (2025-Act) – Estandarización, dashboards y reportes  
+- Sinergía Médica (2024-2025) – Consolidación de datos y optimización de flujos  
+- Delegación Servicios Públicos (2021-2024) – Inventarios y automatización  
+- Greenside (2017-2021) – Estrategias comerciales basadas en datos  
+
+### Portafolio
+https://bit.ly/portafoliorafaelsalinas
 
 ---
 
-## 💼 Experiencia Destacada
+## 🇺🇸 English
 
-### 🏛 Secretaría de Participación Ciudadana de N.L. (2025 - Actual)
-- Estandarización documental  
-- Reportes operativos y dashboards Excel  
-- Materiales formativos de datos abiertos y transparencia  
-:contentReference[oaicite:3]{index=3}
+I am a Data Analyst & Data Scientist with strong experience in data exploration, business intelligence, visualization, automation, and machine learning. I work with Python, SQL, Power BI, and Excel to turn data into actionable insights.
 
-### 🏥 Sinergía Médica (2024 - 2025)
-- Consolidación de datos médicos  
-- Optimización de flujos hospital–aseguradoras  
-- Controles operativos en Excel  
-:contentReference[oaicite:4]{index=4}
+### Skills
+Python · SQL Server · Pandas · NumPy · Plotly · Power BI · Looker Studio · Advanced Excel
 
-### 🚛 Delegación de Servicios Públicos (2021 - 2024)
-- Control de inventarios  
-- Automatización de abastecimiento  
-- Sistema interno logístico  
-:contentReference[oaicite:5]{index=5}
+### Experience
+- Secretariat of Citizen Participation (2025-Present) – Reporting, documentation, dashboards  
+- Sinergía Médica (2024-2025) – Data consolidation & process optimization  
+- Public Services Delegation (2021-2024) – Inventory analytics & automation  
+- Greenside (2017-2021) – Data-driven sales strategies  
 
-### 🛒 Greenside (2017 - 2021)
-- Estrategias de venta basadas en datos  
-- +20% en ventas en 6 meses  
-- Reportes comerciales e inventarios  
-:contentReference[oaicite:6]{index=6}
+### Portfolio
+https://bit.ly/portafoliorafaelsalinas
 
 ---
 
-## 📚 Educación
-- Licenciatura en Administración – Tecmilenio  
-- Analista de Datos – EBAC (2025)  
-- Power BI · Excel Total – Udemy (2025)  
-- Machine Learning · Data Science – Udemy & CoderHouse (2025)  
-:contentReference[oaicite:7]{index=7}
-
----
-
-## 📁 Portafolio
-🔗 Portafolio completo: **https://bit.ly/portafoliorafaelsalinas**  
-Incluye proyectos de análisis financiero, series de tiempo, ML, Big Data, SQL, dashboards, etc.  
-:contentReference[oaicite:8]{index=8}
-
----
-
-## 📫 Contacto
-📧 **rafasalinas92@hotmail.com**  
-🔗 LinkedIn: **linkedin.com/in/rafael-salinas-saldana-data/**  
-🌐 Portafolio: **https://bit.ly/portafoliorafaelsalinas**
+## Contact / Contacto
+📧 rafasalinas92@hotmail.com  
+🔗 linkedin.com/in/rafael-salinas-saldana-data
 
 sData
