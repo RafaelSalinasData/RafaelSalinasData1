@@ -13,7 +13,7 @@ Soy un profesional del **Análisis y Ciencia de Datos** con experiencia en explo
 - 🧪 EDA, automatización y modelado estadístico  
 - 🧠 Pensamiento crítico, comunicación clara y resolución efectiva de problemas
 
-> “Tengo habilidad para comunicar hallazgos y apoyar decisiones estratégicas.” :contentReference[oaicite:1]{index=1}
+> “Tengo habilidad para comunicar hallazgos y apoyar decisiones estratégicas.”
 
 ---
 
@@ -22,7 +22,7 @@ Soy un profesional del **Análisis y Ciencia de Datos** con experiencia en explo
 **Librerías:** Pandas · NumPy · Plotly  
 **BI & Visualización:** Power BI · Looker Studio  
 **Herramientas:** Excel Avanzado · Macros · Tablas dinámicas  
-**Habilidades Blandas:** Liderazgo · Empatía · Adaptabilidad · Trabajo en equipo :contentReference[oaicite:2]{index=2}
+**Habilidades Blandas:** Liderazgo · Empatía · Adaptabilidad · Trabajo en equipo
 
 ---
 
@@ -32,25 +32,21 @@ Soy un profesional del **Análisis y Ciencia de Datos** con experiencia en explo
 - Estandarización documental  
 - Reportes operativos y dashboards Excel  
 - Materiales formativos de datos abiertos y transparencia  
-:contentReference[oaicite:3]{index=3}
 
 ### 🏥 Sinergía Médica (2024 - 2025)
 - Consolidación de datos médicos  
 - Optimización de flujos hospital–aseguradoras  
 - Controles operativos en Excel  
-:contentReference[oaicite:4]{index=4}
 
 ### 🚛 Delegación de Servicios Públicos (2021 - 2024)
 - Control de inventarios  
 - Automatización de abastecimiento  
 - Sistema interno logístico  
-:contentReference[oaicite:5]{index=5}
 
 ### 🛒 Greenside (2017 - 2021)
 - Estrategias de venta basadas en datos  
 - +20% en ventas en 6 meses  
 - Reportes comerciales e inventarios  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -59,14 +55,12 @@ Soy un profesional del **Análisis y Ciencia de Datos** con experiencia en explo
 - Analista de Datos – EBAC (2025)  
 - Power BI · Excel Total – Udemy (2025)  
 - Machine Learning · Data Science – Udemy & CoderHouse (2025)  
-:contentReference[oaicite:7]{index=7}
 
 ---
 
 ## 📁 Portafolio
 🔗 Portafolio completo: **https://bit.ly/portafoliorafaelsalinas**  
 Incluye proyectos de análisis financiero, series de tiempo, ML, Big Data, SQL, dashboards, etc.  
-:contentReference[oaicite:8]{index=8}
 
 ---
 
